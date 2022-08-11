@@ -1,10 +1,11 @@
 # Tailwind CSS Layouts & Templates
 
-This repo is a resource of layouts and templates that can be used in any project. New templates are added weekly. 
+This repo is a resource of layouts and templates that can be used in any project.
 
 ## Demos
 
 You can preview all of the templates and layouts on this landing page here. [Preview Templates](https://templates.digizu.co.uk/)
+
 
 ## Built With
 
@@ -12,7 +13,7 @@ You can preview all of the templates and layouts on this landing page here. [Pre
 
 ## Authors
 
-* **Ross McNeil** - [Digizu](https://digizu.co.uk)
+* **Ross Topping** - [Digizu](https://digizu.co.uk)
 
 ## License
 
